@@ -1,0 +1,28 @@
+{
+  "name": "gangstead-how-to-npm",
+  "version": "1.0.0",
+  "description": "Just doing a nodeschool workshop",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Gangstead",
+  "license": "ISC",
+  "dependencies": {
+    "once": "^1.3.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gangstead/gangstead-how-to-npm.git"
+  },
+  "keywords": [
+    "nodeschool",
+    "npm",
+    "gangstead"
+  ],
+  "bugs": {
+    "url": "https://github.com/gangstead/gangstead-how-to-npm/issues"
+  },
+  "homepage": "https://github.com/gangstead/gangstead-how-to-npm"
+}
